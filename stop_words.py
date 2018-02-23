@@ -31,4 +31,5 @@ stop_words = ['this', 'anywhere', 'although', 'ten', 'keep', 'side', 'yet', 'fou
               'today', 'yesterday', 'good', 'share', 'time', 'day', 'thank', 'new', 'subscribe', 'follow', 'submit',
               'feedback', 'hear', 'support', 'amp', 'think', 'just', 'luck', 'lucky', 'send', 'let', 'know', 'love', 'try',
               'la', 'el', 'en', 'ya', 'yep', 'nope', 'al']
-print(len(stop_words))
+
+#print(len(stop_words))
